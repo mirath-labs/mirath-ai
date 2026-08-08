@@ -14,21 +14,21 @@ A smart research assistant application designed to help students, researchers, a
   - Text translation.
   - Text summarization.
   - Concept explanation.
-## Upcoming Features
 - Fine-tuned summarization model for structured scientific paper summarization across key facets:
   - Purpose
   - Method
   - Findings
   - Value
+## Upcoming Features
 - AI-powered recommendation system for retrieving relevant research papers.
 
 ## Tech Stack
 - Python, FastAPI 
-- Langchain, LangGraph, CrewAI 
+- Langchain, LangGraph, CrewAI
 - QdrantDB, MongoDB 
-- Cohere, Gemini, PaddleOCR, Whisper 
+- Cohere, Gemini, PaddleOCR, Whisper, Qwen
+- LLaMA-Factory
 - Docker 
-
 ## Project File Tree
 
 ```markdown
